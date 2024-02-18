@@ -11,9 +11,9 @@
  
  🔭 I’m currently working on **solutions to elevate the human experience through lines of elegant, efficient code. 🚀**
  
- 🌱 I’m currently learning **a bit of everything in the tech playground because who needs a favorite flavor when you can taste the whole coding rainbow! 🌈**
+ 🌱 Learning **a bit of everything in the tech playground because who needs a favorite flavor when you can taste the whole coding rainbow! 🌈**
 
-💬 Ask me about **that's got impact on making life better, and let's stir up some clever solutions! 🌟**
+💬 Ask me about **anything that's got impact on making life better, and let's stir up some clever solutions! 🌟**
 
 ⚡ Fun Fact **Why dark mode? Light attracts bugs! 🤓**
 
