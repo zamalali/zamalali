@@ -50,7 +50,7 @@
 <h2 align="center">⚒️ Tech-Stack ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,python,c,cpp,html,css,javascript,tailwind,wordpress,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,tailwind,wordpress,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=mysql,postman,powershell,stackoverflow,tensorflow,pytorch,sklearn,opencv,matlab," /><br>
 </div>
 
