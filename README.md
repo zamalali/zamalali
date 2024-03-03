@@ -11,7 +11,7 @@
  
  🔭 **Transforming complexity into simplicity to make every day a bit more effortless 🚀**
  
- 🌱 **Learning a bit of everything in the tech playground because who needs a favorite flavor when you can taste the whole rainbow!** 🌱
+ 🌱 **Learning a bit of everything in the tech playground because who needs a favorite flavor when you can taste the whole rainbow!** 
 
 💬 Ask me about **anything that's got impact on making life better, and let's stir up some clever solutions! 🌟**
 
