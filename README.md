@@ -9,13 +9,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **solutions to elevate the human experience through lines of elegant, efficient code. 🚀**
+ 🔭 **Transforming complexity into simplicity to make every day a bit more effortless 🚀**
  
- 🌱 Learning **a bit of everything in the tech playground because who needs a favorite flavor when you can taste the whole coding rainbow! 🌈**
+ 🌱 **Learning a bit of everything in the tech playground because who needs a favorite flavor when you can taste the whole rainbow!** 🌱
 
 💬 Ask me about **anything that's got impact on making life better, and let's stir up some clever solutions! 🌟**
 
-⚡ Fun Fact **Why dark mode? Light attracts bugs! 🤓**
+⚡  **Embrace the shadows with dark mode – it's where the magic happens🤓**
 
  </div>
  
