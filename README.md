@@ -33,16 +33,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 
-  <a href="https://www.youtube.com/@autopy9866" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-EC4B2E?style=for-the-badge&logo=youtube&logoColor=white%22%20target=%22_blank" />
-  </a>
-
-
-
-   <a href="https://twitter.com/_The_Unsocial_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-20B4F4?style=for-the-badge&logo=x&logoColor=white%22%20target=%22_blank" />
-  </a>
-
 </div>
 
  <hr/>
