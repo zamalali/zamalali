@@ -7,8 +7,7 @@
        <b>Everything that makes human life easy is worth building.</b>  
    </blockquote>
 </div>
-
----   
+   
 
 ```python
 class Me:
