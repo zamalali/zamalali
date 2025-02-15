@@ -31,7 +31,3 @@ class Me:
 
     def introduce(self):
         return f"Hi, I'm {self.name} from {self.location}. I work with {', '.join(self.tools)}."
-
-if __name__ == "__main__":
-    me = Me()
-    print(me.introduce())
