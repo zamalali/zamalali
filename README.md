@@ -15,8 +15,7 @@ class Me:
         self.name = "Zamal Babar"
         self.location = "Germany"
         self.interests = [
-            "Everything that makes human life easy 🚀",
-            "AI & Machine Learning",
+            "Time series",
             "Computer Vision & NLP",
             "Multi-Agent AI Systems",
             "Web & Automation",
@@ -25,7 +24,7 @@ class Me:
         ]
         self.tools = [
             "Python, JAX, LangChain, ChromaDB",
-            "TensorFlow, PyTorch, Hugging Face"
+            "TensorFlow, PyTorch, Transformers"
         ]
 
     def introduce(self):
