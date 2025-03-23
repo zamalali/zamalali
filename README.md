@@ -23,7 +23,7 @@ class Me:
             "Insanely obsessed with Badminton 🏸🔥"
         ]
         self.tools = [
-            "Python, JAX, LangChain, ChromaDB",
+            "Python, JAX, LangChain, Vector Stores",
             "TensorFlow, PyTorch, Transformers"
         ]
 
