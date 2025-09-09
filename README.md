@@ -8,24 +8,3 @@
    </blockquote>
 </div>
    
-
-```python
-class Me:
-    def __init__(self):
-        self.name = "Zamal Babar"
-        self.location = "Germany"
-        self.interests = [
-            "Time series",
-            "Computer Vision & NLP",
-            "Multi-Agent AI Systems",
-            "Web & Automation",
-            "Swimming & Hiking 🌊⛰",
-            "Insanely obsessed with Badminton 🏸🔥"
-        ]
-        self.tools = [
-            "Python, JAX, LangChain, Vector Stores",
-            "TensorFlow, PyTorch, Transformers"
-        ]
-
-    def introduce(self):
-        return f"Hi, I'm {self.name} from {self.location}. I work with {', '.join(self.tools)}."
